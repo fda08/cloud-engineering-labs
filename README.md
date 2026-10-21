@@ -1,32 +1,21 @@
-# Cloud Engineering Labs
+# Lab 01 — Azure Environment Setup
 
-Hands-on projects supporting my transition from IT support
-into a senior technical engineering role.
+## Goal
+Create a personal Azure lab environment and document the setup.
 
-## Focus Areas
-- Azure administration and AZ-104
-- Microsoft 365 and Microsoft Graph
-- PowerShell automation
-- Entra ID and application authentication
-- Azure Automation
-- Terraform and GitHub Actions
+## Tasks
+- [ ] Confirm access to a personal Azure subscription
+- [ ] Configure a budget alert
+- [ ] Create a lab resource group
+- [ ] Record the region and naming convention
+- [ ] Capture screenshots with sensitive details removed
+- [ ] Document cleanup steps
 
-## Lab Tracker
-- [ ] 01 — Azure environment setup
-- [ ] 02 — Microsoft Graph and PowerShell reporting
-- [ ] 03 — Entra app registration and authentication
-- [ ] 04 — Azure Automation runbook
+## Validation
+Record how I confirmed the setup worked.
 
-## Documentation Standard
-Each lab includes:
-- Goal and architecture
-- Setup instructions
-- Scripts or configuration
-- Validation results
-- Troubleshooting notes
-- Cleanup steps
-- Lessons learned
+## Troubleshooting
+Record issues, causes, and fixes.
 
-## Data Policy
-Use personal lab resources and synthetic data only.
-Never commit credentials, tokens, or employer information.
+## Lessons Learned
+Summarize what I can explain in an interview.
