@@ -50,3 +50,4 @@ terraform.rc
 *.p12
 *.key
 secrets/
+ComputerHealth.csv
